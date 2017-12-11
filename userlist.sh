@@ -6,3 +6,5 @@ do
    echo $(i++) $user
 
 done
+
+sudo apt-get install -y httpd
