@@ -7,3 +7,5 @@ echo "$service is running!!!"
 else
 /etc/init.d/$service start
 fi
+
+echo "F"
